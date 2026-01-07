@@ -1,6 +1,4 @@
-<h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=26&pause=1300&color=FF0000&center=true&vCenter=true&width=800&lines=SELAMAT+DATANG+DI+HALAMAN+PROFIL+GITHUB+SAYA" alt="Thank You" />
-</h2>
+<h2 style="color: red;">WELCOME TO MY GITHUB PROFILE</h2>
 
 ![Firaa93](img/github-img.jpeg)
 
@@ -18,7 +16,3 @@
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white"/>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
 </p>
-
-<h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=26&pause=1300&color=FF0000&center=true&vCenter=true&width=800&lines=TERIMA+KASIH+TELAH+MENGUNJUNGI+PROFIL+GITHUB+SAYA" alt="Thank You" />
-</h2>
