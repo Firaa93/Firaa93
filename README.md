@@ -15,4 +15,6 @@
   <img src="https://img.shields.io/badge/Sublime%20Text-FF9800?style=flat-square&logo=sublimetext&logoColor=white"/>
 </p>
 
-![](https://capsule-render.vercel.app/api?type=rect&color=FF0000&height=80&section=header&text=TERIMA%20KASIH%20TELAH%20MENGUNJUNGI%20PROFIL%20GITHUB%20SAYA&fontSize=25&fontColor=FFFFFF)
+<h2 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=FF0000&center=true&vCenter=true&width=800&lines=TERIMA+KASIH+TELAH+MENGUNJUNGI+PROFIL+GITHUB+SAYA" alt="Typing SVG" />
+</h2>
