@@ -1,4 +1,4 @@
-# Hi👋, I'm Firamawaty Hia
+# YA,AHOWU
 
 ![Firaa93](img/github-img.jpeg)
 
