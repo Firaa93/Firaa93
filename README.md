@@ -1,4 +1,6 @@
-# My Profile
+<h2 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=26&pause=1300&color=FF0000&center=true&vCenter=true&width=800&lines=SELAMAT+DATANG+DI+HALAMAN+PROFIL+GITHUB+SAYA" alt="Thank You" />
+</h2>
 
 ![Firaa93](img/github-img.jpeg)
 
