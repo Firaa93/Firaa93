@@ -9,7 +9,7 @@
 
 ![Firaa93](img/github-img.jpeg)
 
-<h> align="center">🛠 Tech Stack</h3>
+<h3>🛠 Tech Stack</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
