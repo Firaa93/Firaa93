@@ -9,7 +9,7 @@
 
 ![Firaa93](img/github-img.jpeg)
 
-<h3 align="center">🛠 Tech Stack</h3>
+<h> align="center">🛠 Tech Stack</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
@@ -30,7 +30,7 @@
 
 <h3>👩‍💻 About Me</h3>
 
-- 🎓 Information Systems Student
+- 🎓 Informatics Engineering Student
 - 💻 Focused on Web Development & UI/UX Design
 - 🚀 Currently learning Flutter & Backend Development
 - 🌱 Always improving coding skills and design thinking
