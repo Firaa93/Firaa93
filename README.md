@@ -4,11 +4,28 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7DF1E&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Web+%26+Mobile+Developer;Always+learning+new+things+%F0%9F%9A%80)
 
+![Visitor Count](https://komarev.com/ghpvc/?username=Firaa93&color=1a1b27&style=flat-square&label=PROFILE+VIEWS)
+
 </div>
 
 ---
 
 ![Firaa93](img/github-img.jpeg)
+
+---
+
+<div align="center">
+
+### 🙋‍♀️ About Me
+
+</div>
+```
+🎓 Seorang developer yang passionate di bidang Web & Mobile
+💻 Suka ngoding dan belajar teknologi baru
+🌱 Saat ini sedang mendalami Flutter & Python
+🎨 Juga suka desain UI/UX dengan Figma & Canva
+📍 Indonesia
+```
 
 ---
 
@@ -52,5 +69,15 @@
 ### 🔥 Streak Stats
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Firaa93&theme=tokyonight)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+<div align="center">
+
+### 🐍 Contribution Snake
+
+![Snake animation](https://github.com/Firaa93/Firaa93/blob/output/github-contribution-grid-snake-dark.svg)
 
 </div>
