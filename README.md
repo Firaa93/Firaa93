@@ -17,6 +17,4 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
 </p>
 
-<p align="center">
-  <img src="img/github1-img.jpeg" alt="Firaa93" width="500"/>
-</p>
+![Firaa93](img/github1-img.jpeg)
