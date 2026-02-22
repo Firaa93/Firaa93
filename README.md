@@ -1,6 +1,15 @@
-<h2 style="color: red;">WELCOME TO MY GITHUB PROFILE</h2>
+<h2 align="center" style="color: red;">Building Digital Experiences 👩‍💻</h2>
+
+<p align="center">
+  Web Developer & UI/UX Enthusiast from Indonesia 🇮🇩 <br>
+  Passionate about creating clean, modern, and user-friendly applications.
+</p>
+
+<br>
 
 ![Firaa93](img/github-img.jpeg)
+
+<h3 align="center">🛠 Tech Stack</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
@@ -16,5 +25,16 @@
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white"/>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
 </p>
+
+<br>
+
+<h3>👩‍💻 About Me</h3>
+
+- 🎓 Information Systems Student
+- 💻 Focused on Web Development & UI/UX Design
+- 🚀 Currently learning Flutter & Backend Development
+- 🌱 Always improving coding skills and design thinking
+
+<br>
 
 ![Firaa93](img/github1-img.jpeg)
