@@ -16,3 +16,7 @@
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white"/>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
 </p>
+
+<p align="center">
+  <img src="img/github2-img.jpeg" alt="Firaa93" width="500"/>
+</p>
