@@ -1,35 +1,5 @@
-<div align="center">
 
-# 👩‍💻 Firamawaty Hia | Firaa93
-
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7DF1E&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Web+%26+Mobile+Developer;Always+learning+new+things+%F0%9F%9A%80)
-
-![Visitor Count](https://komarev.com/ghpvc/?username=Firaa93&color=1a1b27&style=flat-square&label=PROFILE+VIEWS)
-
-</div>
-
----
-
-![Firaa93](img/github-img.jpeg)
-
----
-
-<div align="center">
-
-### 🙋‍♀️ About Me
-
-</div>
-```
-🎓 Seorang developer yang passionate di bidang Web & Mobile
-💻 Suka ngoding dan belajar teknologi baru
-🌱 Saat ini sedang mendalami Flutter & Python
-🎨 Juga suka desain UI/UX dengan Figma & Canva
-📍 Indonesia
-```
-
----
-
-### 🛠️ Tech Stack & Tools
+Firaa93](img/github-img.jpeg)
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
@@ -46,38 +16,5 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
 </p>
 
----
-
 ![Firaa93](img/github1-img.jpeg)
 
----
-
-<div align="center">
-
-### 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Firaa93&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Firaa93&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-<div align="center">
-
-### 🔥 Streak Stats
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Firaa93&theme=tokyonight)](https://git.io/streak-stats)
-
-</div>
-
----
-
-<div align="center">
-
-### 🐍 Contribution Snake
-
-![Snake animation](https://github.com/Firaa93/Firaa93/blob/output/github-contribution-grid-snake-dark.svg)
-
-</div>
