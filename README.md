@@ -18,5 +18,5 @@
 </p>
 
 <p align="center">
-  <img src="img/github2-img.jpeg" alt="Firaa93" width="500"/>
+  <img src="img/github1-img.jpeg" alt="Firaa93" width="500"/>
 </p>
