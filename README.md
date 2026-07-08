@@ -1,11 +1,4 @@
-<h2 align="center">👩‍💻 Building Digital Experiences</h2>
-
-<p align="center">
-Informatics Engineering Student from Indonesia 🇮🇩 <br>
-Passionate about Web Development, Flutter Mobile Apps,
-Linux Server Administration, and Computer Networking.
-</p>
-<br>
+<h2 align="center">👋 Hi, I'm Firamawati Hia</h2>
 
 ![Firaa93](img/github-img.jpeg)
 
