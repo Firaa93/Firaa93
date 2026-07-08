@@ -30,48 +30,51 @@
 
 <h3>👩‍💻 About Me</h3>
 
-🖥️ Linux / Debian
-Linux System Administration
-Debian Linux
-Server Administration
-Server Monitoring
-SSH
-DNS
-Apache HTTP Server
-Nginx
-FTP
-Mail Server
-Bacula
-Backup and Recovery
-MySQL
-MariaDB
-WordPress
-🌐 Networking
-Cisco Networking
-Cisco Routing and Switching
-MikroTik
-Network Administration
-Network Configuration
-Network Topology
-VLAN
-Routing
-Switching
-TCP/IP
-Network Troubleshooting
-Bandwidth Management
-💻 Web Development
-Web Development
-PHP
-HTML
-CSS
-JavaScript
-MySQL
-WordPress
-📱 Flutter / Mobile Development
-Flutter
-Dart
-Mobile Application Development
-UI/UX Design
+## 🖥️ Linux / Debian
+- Linux System Administration
+- Debian Linux
+- Server Administration
+- Server Monitoring
+- SSH
+- DNS
+- Apache HTTP Server
+- Nginx
+- FTP
+- Mail Server
+- Bacula
+- Backup and Recovery
+- MySQL
+- MariaDB
+- WordPress
+
+## 🌐 Networking
+- Cisco Networking
+- Cisco Routing and Switching
+- MikroTik
+- Network Administration
+- Network Configuration
+- Network Topology
+- VLAN
+- Routing
+- Switching
+- TCP/IP
+- Network Troubleshooting
+- Bandwidth Management
+
+## 💻 Web Development
+- Web Development
+- PHP
+- HTML
+- CSS
+- JavaScript
+- MySQL
+- WordPress
+
+## 📱 Flutter / Mobile Development
+- Flutter
+- Dart
+- Mobile Application Development
+- UI/UX Design
 
 <br>
 
