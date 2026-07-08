@@ -1,10 +1,10 @@
-<h2 align="center" style="color: red;">Building Digital Experiences 👩‍💻</h2>
+<h2 align="center">👩‍💻 Building Digital Experiences</h2>
 
 <p align="center">
-  Web Developer & UI/UX Enthusiast from Indonesia 🇮🇩 <br>
-  Passionate about creating clean, modern, and user-friendly applications.
+Informatics Engineering Student from Indonesia 🇮🇩 <br>
+Passionate about Web Development, Flutter Mobile Apps,
+Linux Server Administration, and Computer Networking.
 </p>
-
 <br>
 
 ![Firaa93](img/github-img.jpeg)
@@ -68,7 +68,6 @@
 - CSS
 - JavaScript
 - MySQL
-- WordPress
 
 ## 📱 Flutter / Mobile Development
 - Flutter
