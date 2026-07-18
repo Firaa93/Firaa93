@@ -54,11 +54,9 @@
 <h3 align="center">📊 Zabbix Server Monitoring</h3>
 
 <p align="center">
-Server Monitoring Dashboard using Zabbix
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Firaa93/Firaa93/main/img/zabbix-dashboard.png" alt="Zabbix Dashboard" width="100%">
+  <img src="https://raw.githubusercontent.com/Firaa93/Firaa93/main/img/zabbix-dashboard.png"
+       alt="Zabbix Dashboard"
+       width="100%">
 </p>
 
 <br>
@@ -86,11 +84,9 @@ Server Monitoring Dashboard using Zabbix
 <h3 align="center">🌐 Cisco Networking Project</h3>
 
 <p align="center">
-Campus Network Topology using Cisco Packet Tracer
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Firaa93/Firaa93/main/img/cisco-network-topology.png" alt="Cisco Packet Tracer" width="100%">
+  <img src="https://raw.githubusercontent.com/Firaa93/Firaa93/main/img/cisco-network-topology.png"
+       alt="Cisco Packet Tracer"
+       width="100%">
 </p>
 
 <br>
