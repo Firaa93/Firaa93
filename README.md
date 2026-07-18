@@ -49,10 +49,6 @@
 - MariaDB
 - WordPress
 
-<br>
-
-<h3 align="center">📊 Zabbix Server Monitoring</h3>
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/Firaa93/Firaa93/main/img/zabbix-dashboard.png"
        alt="Zabbix Dashboard"
@@ -78,10 +74,6 @@
 - Access Point Configuration
 - Network Troubleshooting
 - Bandwidth Management
-
-<br>
-
-<h3 align="center">🌐 Cisco Networking Project</h3>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Firaa93/Firaa93/main/img/cisco-network-topology.png"
