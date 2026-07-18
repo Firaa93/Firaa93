@@ -1,8 +1,6 @@
 <h2 align="center">👋 Hi, I'm Firamawati Hia</h2>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Firaa93/Firaa93/main/img/github-img.jpeg" alt="Banner" width="100%">
-</p>
+![Firaa93](https://raw.githubusercontent.com/Firaa93/Firaa93/main/img/github-img.jpeg)
 
 <h3 align="center">🛠 Tech Stack</h3>
 
@@ -22,46 +20,34 @@
   <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white"/>
   <img src="https://img.shields.io/badge/Laragon-0E83CD?style=flat-square&logo=laragon&logoColor=white"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Sublime_Text-FF9800?style=flat-square&logo=sublimetext&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Sublime%20Text-FF9800?style=flat-square&logo=sublimetext&logoColor=white"/>
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white"/>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
 </p>
 
----
-
-<h3 align="center">🌐 Cisco Networking Project</h3>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Firaa93/Firaa93/main/img/cisco-network-topology.png.png" alt="Cisco Packet Tracer Network Topology" width="900"/>
-</p>
-
-<p align="center">
-Campus Network Topology using Cisco Packet Tracer
-</p>
-
----
+<br>
 
 <h3>👩‍💻 About Me</h3>
 
-### 🖥️ Linux / Debian
+## 🖥️ Linux / Debian
 
 - Linux System Administration
 - Debian Linux
 - Server Administration
 - Server Monitoring
 - SSH
-- DNS Server
+- DNS
 - Apache HTTP Server
 - Nginx
-- FTP Server
+- FTP
 - Mail Server
-- Bacula Backup
+- Bacula
 - Backup and Recovery
 - MySQL
 - MariaDB
 - WordPress
 
-### 🌐 Networking
+## 🌐 Networking
 
 - Cisco Networking
 - Cisco Routing and Switching
@@ -79,26 +65,36 @@ Campus Network Topology using Cisco Packet Tracer
 - Network Troubleshooting
 - Bandwidth Management
 
-### 💻 Web Development
+<br>
 
+<h3 align="center">🌐 Cisco Networking Project</h3>
+
+<p align="center">
+Campus Network Topology using Cisco Packet Tracer
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Firaa93/Firaa93/main/img/cisco-network-topology.png.png" alt="Cisco Packet Tracer Network Topology" width="100%"/>
+</p>
+
+<br>
+
+## 💻 Web Development
+
+- Web Development
 - PHP
-- HTML5
-- CSS3
+- HTML
+- CSS
 - JavaScript
 - MySQL
-- Responsive Web Design
 
-### 📱 Flutter / Mobile Development
+## 📱 Flutter / Mobile Development
 
 - Flutter
 - Dart
 - Mobile Application Development
-- Firebase
-- REST API
 - UI/UX Design
 
----
+<br>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Firaa93/Firaa93/main/img/github1-img.jpeg" alt="Footer Banner" width="100%">
-</p>
+![Firaa93](https://raw.githubusercontent.com/Firaa93/Firaa93/main/img/github1-img.jpeg)
