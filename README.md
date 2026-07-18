@@ -1,6 +1,8 @@
 <h2 align="center">👋 Hi, I'm Firamawati Hia</h2>
 
-![Firaa93](https://raw.githubusercontent.com/Firaa93/Firaa93/main/img/github-img.jpeg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Firaa93/Firaa93/main/img/github-img.jpeg" alt="Banner" width="100%">
+</p>
 
 <h3 align="center">🛠 Tech Stack</h3>
 
@@ -47,6 +49,20 @@
 - MariaDB
 - WordPress
 
+<br>
+
+<h3 align="center">📊 Zabbix Server Monitoring</h3>
+
+<p align="center">
+Server Monitoring Dashboard using Zabbix
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Firaa93/Firaa93/main/img/zabbix-dashboard.png" alt="Zabbix Dashboard" width="100%">
+</p>
+
+<br>
+
 ## 🌐 Networking
 
 - Cisco Networking
@@ -74,7 +90,7 @@ Campus Network Topology using Cisco Packet Tracer
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Firaa93/Firaa93/main/img/cisco-network-topology.png.png" alt="Cisco Packet Tracer Network Topology" width="100%"/>
+  <img src="https://raw.githubusercontent.com/Firaa93/Firaa93/main/img/cisco-network-topology.png" alt="Cisco Packet Tracer" width="100%">
 </p>
 
 <br>
@@ -97,4 +113,6 @@ Campus Network Topology using Cisco Packet Tracer
 
 <br>
 
-![Firaa93](https://raw.githubusercontent.com/Firaa93/Firaa93/main/img/github1-img.jpeg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Firaa93/Firaa93/main/img/github1-img.jpeg" alt="Footer Banner" width="100%">
+</p>
