@@ -1,6 +1,6 @@
 
 <!-- WELCOME MESSAGE -->
-<h1 align="center">👋 WELCOME TO MY GITHUB PROFILE!</h1>
+<h1 align="center">WELCOME TO MY GITHUB PROFILE!👋 </h1>
 
 <p align="center">
   WELCOME TO MY GITHUB PROFILE! I'M FIRA, AND I'M HAPPY TO HAVE YOU VISIT MY PAGE.
