@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Firaa93/Firaa93/main/img/Fira(1).svg" alt="Web Development Workflow: From Concept to Deployment" width="100%">
+  <img src="https://raw.githubusercontent.com/Firaa93/Firaa93/main/img/Fira%20(1).svg"
+       alt="Web Development Workflow: From Concept to Deployment"
+       width="100%">
 </p>
 
 <h2 align="center"> SELAMAT DATANG DI DUNIA PROGRAMMER 👨‍💻</h2>
