@@ -26,7 +26,7 @@
 <h3>👩‍💻 About Me</h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Firaa93/Firaa93/main/img/dev-flow.svg" alt="Web Development Flow: From Design to Hosting" width="100%">
+  <img src="https://raw.githubusercontent.com/Firaa93/Firaa93/main/img/dev-flow.svg" alt="Web Development Workflow: From Concept to Deployment" width="100%">
 </p>
 
 ## 🌐 Networking
