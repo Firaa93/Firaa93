@@ -1,11 +1,8 @@
 <h2 align="center">👋 Hi, I'm Firamawati Hia</h2>
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/Firaa93/Firaa93/main/img/github-img.jpeg" alt="Banner" width="100%">
 </p>
-
 <h3 align="center">🛠 Tech Stack</h3>
-
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
@@ -16,7 +13,6 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white"/>
   <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white"/>
   <img src="https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=apache&logoColor=white"/>
   <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white"/>
@@ -26,81 +22,67 @@
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white"/>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
 </p>
-
 <br>
-
 <h3>👩‍💻 About Me</h3>
 
-## 🖥️ Linux / Debian
-
-- Linux System Administration
-- Debian Linux
-- Server Administration
-- Server Monitoring
-- SSH
-- DNS
-- Apache HTTP Server
-- Nginx
-- FTP
-- Mail Server
-- Bacula
-- Backup and Recovery
-- MySQL
-- MariaDB
-- WordPress
+## 😎 Sticker Anak Teknik Informatika
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Firaa93/Firaa93/main/img/zabbix-dashboard.png"
-       alt="Zabbix Dashboard"
-       width="100%">
+  <img src="https://img.shields.io/badge/☕_Coffee-Driven_Developer-6F4E37?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/🐛_Bug-Hunter-D73A4A?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/💻_Ngoding-Sampai_Pagi-0D1117?style=for-the-badge"/>
+  <br>
+  <img src="https://img.shields.io/badge/Ctrl+C-Ctrl+V_Engineer-FF6F00?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Stack_Overflow-Survivor-F48024?style=for-the-badge&logo=stackoverflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/It_Works-On_My_Machine-2EA44F?style=for-the-badge"/>
+  <br>
+  <img src="https://img.shields.io/badge/Teknik-Informatika-8A2BE2?style=for-the-badge&logo=githubcopilot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Deadline-Is_Coming-FF0000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Git-Commit_Push_Pray-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
-
-<br>
 
 ## 🌐 Networking
 
-- Cisco Networking
-- Cisco Routing and Switching
-- MikroTik
-- Network Administration
-- Network Configuration
-- Network Topology
-- VLAN Configuration
-- Static Routing
-- Dynamic Routing
-- TCP/IP
-- DHCP
-- DNS
-- Access Point Configuration
-- Network Troubleshooting
-- Bandwidth Management
+* Cisco Networking
+* Cisco Routing and Switching
+* MikroTik
+* Network Administration
+* Network Configuration
+* Network Topology
+* VLAN Configuration
+* Static Routing
+* Dynamic Routing
+* TCP/IP
+* DHCP
+* DNS
+* Access Point Configuration
+* Network Troubleshooting
+* Bandwidth Management
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Firaa93/Firaa93/main/img/cisco-network-topology.png"
        alt="Cisco Packet Tracer"
        width="100%">
 </p>
-
 <br>
 
 ## 💻 Web Development
 
-- Web Development
-- PHP
-- HTML
-- CSS
-- JavaScript
-- MySQL
+* Web Development
+* PHP
+* HTML
+* CSS
+* JavaScript
+* MySQL
 
 ## 📱 Flutter / Mobile Development
 
-- Flutter
-- Dart
-- Mobile Application Development
-- UI/UX Design
+* Flutter
+* Dart
+* Mobile Application Development
+* UI/UX Design
 
 <br>
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/Firaa93/Firaa93/main/img/github1-img.jpeg" alt="Footer Banner" width="100%">
 </p>
