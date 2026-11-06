@@ -1,10 +1,5 @@
-
 <!-- WELCOME MESSAGE -->
-<h1 align="center">WELCOME TO MY GITHUB PROFILE!👋 </h1>
-
-<p align="center">
-  WELCOME TO MY GITHUB PROFILE! I'M FIRA, AND I'M HAPPY TO HAVE YOU VISIT MY PAGE.
-</p>
+<h1 align="center"> WELCOME TO MY GITHUB PROFILE! I'M FIRA, AND I'M HAPPY TO HAVE YOU VISIT MY PAGE👋 </h1>
 
 <p align="center">
   FEEL FREE TO EXPLORE MY PROJECTS, DISCOVER MY WORK,
@@ -57,7 +52,7 @@
 
 <!-- ABOUT ME -->
 <h3>👩‍💻 About Me</h3>
-## 🌐 Networking
+🌐 Networking
 
 * Cisco Networking
 * Cisco Routing and Switching
