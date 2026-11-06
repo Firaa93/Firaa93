@@ -16,10 +16,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=18&duration=4000&pause=1500&color=7C4DFF&center=true&vCenter=true&width=800&height=40&lines=Explore+my+projects%2C+discover+my+work%2C+and+follow+my+journey+in+tech." alt="Intro"/>
 </p>
 
-<p align="center">
-  <b>✨ Is there anything I can help you with? Let's connect and grow together! 🚀</b>
-</p>
-
 <!-- PROFILE BANNER -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/Firaa93/Firaa93/main/img/github-img.jpeg"
@@ -28,7 +24,7 @@
 
 <!-- TECH STACK -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=30&duration=2500&pause=800&color=FF9100&center=true&vCenter=true&width=500&height=55&lines=%F0%9F%9B%A0+Tech+Stack" alt="Tech Stack"/>
+  <img src="https://img.shields.io/badge/🛠️_Tech_Stack-FF9100?style=for-the-badge&labelColor=FF9100" alt="Tech Stack"/>
 </p>
 
 <p align="center">
@@ -54,7 +50,7 @@
 
 <!-- ABOUT ME -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=30&duration=2500&pause=800&color=7C4DFF&center=true&vCenter=true&width=500&height=55&lines=%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB+About+Me" alt="About Me"/>
+  <img src="https://img.shields.io/badge/👩‍💻_About_Me-7C4DFF?style=for-the-badge&labelColor=7C4DFF" alt="About Me"/>
 </p>
 
 <h3 align="center">🌐 Networking</h3>
