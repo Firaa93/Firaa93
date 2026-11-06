@@ -1,5 +1,39 @@
+
 <!-- WELCOME MESSAGE -->
-<h1 align="center"> WELCOME TO MY GITHUB PROFILE! I'M FIRA, AND I'M HAPPY TO HAVE YOU VISIT MY PAGE👋 </h1>
+<h1 align="center">
+  👋 WELCOME TO MY GITHUB PROFILE
+</h1>
+
+<h2 align="center">
+  I'M FIRAMAWATI HIA
+</h2>
+
+<h3 align="center">
+  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+</h3>
+
+<h3 align="center">
+  "WHERE IDEAS TURN INTO CODE,<br>
+  AND CODE TURNS INTO REALITY."
+</h3>
+
+<p align="center">
+  A PASSIONATE LEARNER IN TECHNOLOGY, PROGRAMMING,
+  AND WEB DEVELOPMENT.
+</p>
+
+<p align="center">
+  EXPLORE MY PROJECTS • DISCOVER MY WORK •
+  FOLLOW MY JOURNEY
+</p>
+
+<p align="center">
+  <b>HAPPY TO HAVE YOU HERE!</b>
+</p>
+
+<p align="center">
+  LET'S CONNECT, SHARE IDEAS, AND GROW TOGETHER. 🚀
+</p>
 
 <br>
 
@@ -9,14 +43,7 @@
        alt="Web Development Workflow: From Concept to Deployment"
        width="100%">
 </p>
-<p align="center">
-  FEEL FREE TO EXPLORE MY PROJECTS, DISCOVER MY WORK,
-  AND FOLLOW MY JOURNEY IN THE WORLD OF TECHNOLOGY.
-</p>
 
-<p align="center">
-  <b>IS THERE ANYTHING I CAN HELP YOU WITH? LET'S CONNECT AND GROW TOGETHER! 🚀</b>
-</p>
 <!-- PROFILE BANNER -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/Firaa93/Firaa93/main/img/github-img.jpeg"
@@ -50,7 +77,8 @@
 
 <!-- ABOUT ME -->
 <h3>👩‍💻 About Me</h3>
-🌐 Networking
+
+## 🌐 Networking
 
 * Cisco Networking
 * Cisco Routing and Switching
