@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="280" viewBox="0 0 900 280">
+  <defs>
+    <linearGradient id="rainbow" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="900" y2="0">
+      <stop offset="0%" stop-color="#FF4081"/>
+      <stop offset="25%" stop-color="#FF9100"/>
+      <stop offset="50%" stop-color="#7C4DFF"/>
+      <stop offset="75%" stop-color="#00C4CC"/>
+      <stop offset="100%" stop-color="#FF4081"/>
+      <animateTransform attributeName="gradientTransform" type="translate" values="-900 0; 0 0" dur="6s" repeatCount="indefinite"/>
+    </linearGradient>
+    <linearGradient id="sub" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#FF9100"/>
+      <stop offset="50%" stop-color="#FF4081"/>
+      <stop offset="100%" stop-color="#7C4DFF"/>
+    </linearGradient>
+    <path id="wave1" d="M 20,120 C 150,10 300,230 450,120 S 750,10 880,120"/>
+    <path id="wave2" d="M 20,190 C 150,90 300,290 450,190 S 750,90 880,190"/>
+    <filter id="glow" x="-20%" y="-50%" width="140%" height="200%">
+      <feGaussianBlur stdDeviation="3" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <!-- decorative wave lines -->
+  <use href="#wave1" fill="none" stroke="url(#rainbow)" stroke-width="2" opacity="0.25" transform="translate(0,-18)"/>
+  <use href="#wave2" fill="none" stroke="url(#rainbow)" stroke-width="2" opacity="0.25" transform="translate(0,14)"/>
+
+  <!-- shadow layer -->
+  <text font-family="'Trebuchet MS', 'Segoe UI', Verdana, sans-serif" font-size="44" font-weight="900" letter-spacing="3" fill="#000" opacity="0.18" transform="translate(3,5)">
+    <textPath href="#wave1" startOffset="50%" text-anchor="middle">WELCOME TO MY GITHUB PROFILE</textPath>
+  </text>
+  <!-- main wavy text -->
+  <text font-family="'Trebuchet MS', 'Segoe UI', Verdana, sans-serif" font-size="44" font-weight="900" letter-spacing="3" fill="url(#rainbow)" filter="url(#glow)">
+    <textPath href="#wave1" startOffset="50%" text-anchor="middle">WELCOME TO MY GITHUB PROFILE
+      <animate attributeName="startOffset" values="47%;53%;47%" dur="6s" repeatCount="indefinite"/>
+    </textPath>
+  </text>
+
+  <!-- second wavy line -->
+  <text font-family="'Trebuchet MS', 'Segoe UI', Verdana, sans-serif" font-size="26" font-weight="700" letter-spacing="8" fill="url(#sub)">
+    <textPath href="#wave2" startOffset="50%" text-anchor="middle">I'M FIRA &#8226; WEB &#8226; NETWORK &#8226; MOBILE
+      <animate attributeName="startOffset" values="53%;47%;53%" dur="6s" repeatCount="indefinite"/>
+    </textPath>
+  </text>
+
+  <!-- dots -->
+  <circle cx="60" cy="250" r="6" fill="#FF4081"><animate attributeName="cy" values="250;235;250" dur="2s" repeatCount="indefinite"/></circle>
+  <circle cx="450" cy="262" r="6" fill="#7C4DFF"><animate attributeName="cy" values="262;247;262" dur="2.4s" repeatCount="indefinite"/></circle>
+  <circle cx="840" cy="250" r="6" fill="#00C4CC"><animate attributeName="cy" values="250;235;250" dur="2.8s" repeatCount="indefinite"/></circle>
+</svg>
