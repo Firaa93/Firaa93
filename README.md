@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/Firaa93/Firaa93/main/img/Fira.svg" alt="Web Development Workflow: From Concept to Deployment" width="100%">
 </p>
 
-<h2 align="center">👋 Hi, I'm Firamawati Hia</h2>
+<h2 align="center"> SELAMAT DATANG DI DUNIA PROGRAMMER 👨‍💻</h2>
 <p align="center">
   <img src="https://raw.githubusercontent.com/Firaa93/Firaa93/main/img/github-img.jpeg" alt="Banner" width="100%">
 </p>
