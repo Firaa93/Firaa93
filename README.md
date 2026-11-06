@@ -1,14 +1,38 @@
+
+<!-- WELCOME MESSAGE -->
+<h1 align="center">👋 WELCOME TO MY GITHUB PROFILE!</h1>
+
+<p align="center">
+  WELCOME TO MY GITHUB PROFILE! I'M FIRA, AND I'M HAPPY TO HAVE YOU VISIT MY PAGE.
+</p>
+
+<p align="center">
+  FEEL FREE TO EXPLORE MY PROJECTS, DISCOVER MY WORK,
+  AND FOLLOW MY JOURNEY IN THE WORLD OF TECHNOLOGY.
+</p>
+
+<p align="center">
+  <b>IS THERE ANYTHING I CAN HELP YOU WITH? LET'S CONNECT AND GROW TOGETHER! 🚀</b>
+</p>
+
+<br>
+
+<!-- WEB DEVELOPMENT WORKFLOW -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/Firaa93/Firaa93/main/img/Fira%20(1).svg"
        alt="Web Development Workflow: From Concept to Deployment"
        width="100%">
 </p>
 
-<h2 align="center"> SELAMAT DATANG DI DUNIA PROGRAMMER 👨‍💻</h2>
+<!-- PROFILE BANNER -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Firaa93/Firaa93/main/img/github-img.jpeg" alt="Banner" width="100%">
+  <img src="https://raw.githubusercontent.com/Firaa93/Firaa93/main/img/github-img.jpeg"
+       alt="Banner" width="100%">
 </p>
+
+<!-- TECH STACK -->
 <h3 align="center">🛠 Tech Stack</h3>
+
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
@@ -28,9 +52,11 @@
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white"/>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
 </p>
-<br>
-<h3>👩‍💻 About Me</h3>
 
+<br>
+
+<!-- ABOUT ME -->
+<h3>👩‍💻 About Me</h3>
 ## 🌐 Networking
 
 * Cisco Networking
@@ -54,6 +80,7 @@
        alt="Cisco Packet Tracer"
        width="100%">
 </p>
+
 <br>
 
 ## 💻 Web Development
@@ -73,6 +100,9 @@
 * UI/UX Design
 
 <br>
+
+<!-- FOOTER BANNER -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Firaa93/Firaa93/main/img/github1-img.jpeg" alt="Footer Banner" width="100%">
+  <img src="https://raw.githubusercontent.com/Firaa93/Firaa93/main/img/github1-img.jpeg"
+       alt="Footer Banner" width="100%">
 </p>
