@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Firaa93/Firaa93/main/img/Fira.svg" alt="Web Development Workflow: From Concept to Deployment" width="100%">
+</p>
+
 <h2 align="center">👋 Hi, I'm Firamawati Hia</h2>
 <p align="center">
   <img src="https://raw.githubusercontent.com/Firaa93/Firaa93/main/img/github-img.jpeg" alt="Banner" width="100%">
@@ -24,10 +28,6 @@
 </p>
 <br>
 <h3>👩‍💻 About Me</h3>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Firaa93/Firaa93/main/img/Fira.svg" alt="Web Development Workflow: From Concept to Deployment" width="100%">
-</p>
 
 ## 🌐 Networking
 
@@ -73,38 +73,4 @@
 <br>
 <p align="center">
   <img src="https://raw.githubusercontent.com/Firaa93/Firaa93/main/img/github1-img.jpeg" alt="Footer Banner" width="100%">
-</p>
-
-<br>
-
-<h3 align="center">⌨️ Let's Connect</h3>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=2F81F7&center=true&vCenter=true&width=700&lines=Informatics+Engineering+Student;Web+%26+Mobile+Developer;Network+Enthusiast;Always+Learning%2C+Always+Building" alt="Typing SVG" />
-</p>
-
-<h3 align="center">📊 GitHub Stats</h3>
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Firaa93&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Firaa93&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Firaa93&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
-</p>
-
-<h3 align="center">📈 Contribution Activity</h3>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Firaa93&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" width="100%" />
-</p>
-
-<h3 align="center">🏆 Achievements</h3>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Firaa93&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Firaa93&label=Profile+Views&color=2F81F7&style=flat-square" alt="Profile Views" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" alt="Footer Wave" />
 </p>
