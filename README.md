@@ -5,7 +5,7 @@
 
 <!-- TYPING ANIMATION -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=26&duration=3000&pause=900&color=FF4081&center=true&vCenter=true&width=800&height=55&lines=Welcome+to+my+GitHub+Profile+%F0%9F%91%8B;Building+Creative+Web+%26+Mobile+Apps+%F0%9F%8E%A8;Configuring+Secure+%26+Reliable+Networks+%F0%9F%8C%90;Let's+Connect+and+Grow+Together+%F0%9F%9A%80" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=26&duration=3000&pause=900&color=FF4081&center=true&vCenter=true&width=800&height=55&lines=Hi%2C+I'm+Fira+%F0%9F%91%8B;I+build+websites+and+mobile+apps;I+also+set+up+and+fix+networks;Still+learning+something+new+every+day" alt="Typing SVG"/>
 </p>
 
 <br>
@@ -19,12 +19,12 @@
 
 <!-- EXPLORE TEXT -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=20&duration=4000&pause=1500&color=7C4DFF&center=true&vCenter=true&width=900&height=45&lines=Explore+my+projects%2C+discover+my+work%2C+and+follow+my+journey+in+tech." alt="Explore"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=20&duration=4000&pause=1500&color=7C4DFF&center=true&vCenter=true&width=900&height=45&lines=Have+a+look+around.+Most+of+what+I'm+working+on+is+in+my+repositories." alt="Explore"/>
 </p>
 
 <!-- HELP TEXT -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Righteous&weight=700&size=24&duration=3500&pause=1200&color=FF4081&center=true&vCenter=true&width=900&height=55&lines=%E2%9C%A8+Is+there+anything+I+can+help+you+with%3F;Let's+connect+and+grow+together!+%F0%9F%9A%80;Open+for+collaboration+%26+new+opportunities+%F0%9F%A4%9D" alt="Help"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Righteous&weight=700&size=24&duration=3500&pause=1200&color=FF4081&center=true&vCenter=true&width=900&height=55&lines=Got+a+project+or+an+idea%3F;Feel+free+to+reach+out.;Always+up+for+a+chat+about+tech+%F0%9F%98%84" alt="Help"/>
 </p>
 
 <!-- PROFILE BANNER -->
@@ -35,7 +35,7 @@
 
 <!-- TECH STACK -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=30&duration=2500&pause=800&color=FF9100&center=true&vCenter=true&width=500&height=55&lines=%F0%9F%9B%A0+Tech+Stack" alt="Tech Stack"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=30&duration=2500&pause=800&color=FF9100&center=true&vCenter=true&width=500&height=55&lines=%F0%9F%9B%A0+What+I+Work+With" alt="What I Work With"/>
 </p>
 
 <p align="center">
@@ -61,7 +61,7 @@
 
 <!-- ABOUT ME -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=30&duration=2500&pause=800&color=7C4DFF&center=true&vCenter=true&width=500&height=55&lines=%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB+About+Me" alt="About Me"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=30&duration=2500&pause=800&color=7C4DFF&center=true&vCenter=true&width=500&height=55&lines=%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB+A+Bit+About+Me" alt="A Bit About Me"/>
 </p>
 
 <h3 align="center">🌐 Networking</h3>
