@@ -12,10 +12,6 @@
        width="100%">
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=18&duration=4000&pause=1500&color=7C4DFF&center=true&vCenter=true&width=800&height=40&lines=Explore+my+projects%2C+discover+my+work%2C+and+follow+my+journey+in+tech." alt="Intro"/>
-</p>
-
 <!-- PROFILE BANNER -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/Firaa93/Firaa93/main/img/github-img.jpeg"
