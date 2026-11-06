@@ -1,16 +1,6 @@
-<!-- HEADER WAVE -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF4081,35:FF9100,65:7C4DFF,100:00C4CC&height=240&section=header&text=Hi%2C%20I'm%20Fira&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=38&stroke=ffffff&strokeWidth=1&desc=Web%20Developer%20%E2%80%A2%20Network%20Engineer%20%E2%80%A2%20Flutter%20Developer&descSize=20&descAlignY=62" width="100%" alt="Header"/>
-</p>
-
 <!-- CURVED WELCOME TEXT -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/Firaa93/Firaa93/main/img/welcome-wave.svg" alt="Welcome to my GitHub profile" width="100%">
-</p>
-
-<!-- TYPING ANIMATION -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=26&duration=3000&pause=900&color=FF4081&center=true&vCenter=true&width=800&height=55&lines=Welcome+to+my+GitHub+Profile+%F0%9F%91%8B;Building+Creative+Web+%26+Mobile+Apps+%F0%9F%8E%A8;Configuring+Secure+%26+Reliable+Networks+%F0%9F%8C%90;Let's+Connect+and+Grow+Together+%F0%9F%9A%80" alt="Typing SVG"/>
 </p>
 
 <br>
@@ -120,9 +110,4 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/Firaa93/Firaa93/main/img/github1-img.jpeg"
        alt="Footer Banner" width="100%">
-</p>
-
-<!-- FOOTER WAVE -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C4CC,35:7C4DFF,65:FF9100,100:FF4081&height=130&section=footer" width="100%" alt="Footer"/>
 </p>
