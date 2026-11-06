@@ -1,15 +1,6 @@
 <!-- WELCOME MESSAGE -->
 <h1 align="center"> WELCOME TO MY GITHUB PROFILE! I'M FIRA, AND I'M HAPPY TO HAVE YOU VISIT MY PAGE👋 </h1>
 
-<p align="center">
-  FEEL FREE TO EXPLORE MY PROJECTS, DISCOVER MY WORK,
-  AND FOLLOW MY JOURNEY IN THE WORLD OF TECHNOLOGY.
-</p>
-
-<p align="center">
-  <b>IS THERE ANYTHING I CAN HELP YOU WITH? LET'S CONNECT AND GROW TOGETHER! 🚀</b>
-</p>
-
 <br>
 
 <!-- WEB DEVELOPMENT WORKFLOW -->
@@ -18,7 +9,14 @@
        alt="Web Development Workflow: From Concept to Deployment"
        width="100%">
 </p>
+<p align="center">
+  FEEL FREE TO EXPLORE MY PROJECTS, DISCOVER MY WORK,
+  AND FOLLOW MY JOURNEY IN THE WORLD OF TECHNOLOGY.
+</p>
 
+<p align="center">
+  <b>IS THERE ANYTHING I CAN HELP YOU WITH? LET'S CONNECT AND GROW TOGETHER! 🚀</b>
+</p>
 <!-- PROFILE BANNER -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/Firaa93/Firaa93/main/img/github-img.jpeg"
