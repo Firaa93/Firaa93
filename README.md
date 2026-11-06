@@ -1,3 +1,8 @@
+<!-- HEADER WAVE -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF4081,35:FF9100,65:7C4DFF,100:00C4CC&height=240&section=header&text=Hi%2C%20I'm%20Fira&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=38&stroke=ffffff&strokeWidth=1&desc=Web%20Developer%20%E2%80%A2%20Network%20Engineer%20%E2%80%A2%20Flutter%20Developer&descSize=20&descAlignY=62" width="100%" alt="Header"/>
+</p>
+
 <!-- CURVED WELCOME TEXT -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/Firaa93/Firaa93/main/img/welcome-wave.svg" alt="Welcome to my GitHub profile" width="100%">
@@ -5,7 +10,7 @@
 
 <!-- TYPING ANIMATION -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=26&duration=3000&pause=900&color=FF4081&center=true&vCenter=true&width=800&height=55&lines=Hi%2C+I'm+Fira+%F0%9F%91%8B;I+build+websites+and+mobile+apps;I+also+set+up+and+fix+networks;Still+learning+something+new+every+day" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=26&duration=3000&pause=900&color=FF4081&center=true&vCenter=true&width=800&height=55&lines=Welcome+to+my+GitHub+Profile+%F0%9F%91%8B;Building+Creative+Web+%26+Mobile+Apps+%F0%9F%8E%A8;Configuring+Secure+%26+Reliable+Networks+%F0%9F%8C%90;Let's+Connect+and+Grow+Together+%F0%9F%9A%80" alt="Typing SVG"/>
 </p>
 
 <br>
@@ -17,14 +22,12 @@
        width="100%">
 </p>
 
-<!-- EXPLORE TEXT -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=20&duration=4000&pause=1500&color=7C4DFF&center=true&vCenter=true&width=900&height=45&lines=Have+a+look+around.+Most+of+what+I'm+working+on+is+in+my+repositories." alt="Explore"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=18&duration=4000&pause=1500&color=7C4DFF&center=true&vCenter=true&width=800&height=40&lines=Explore+my+projects%2C+discover+my+work%2C+and+follow+my+journey+in+tech." alt="Intro"/>
 </p>
 
-<!-- HELP TEXT -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Righteous&weight=700&size=24&duration=3500&pause=1200&color=FF4081&center=true&vCenter=true&width=900&height=55&lines=Got+a+project+or+an+idea%3F;Feel+free+to+reach+out.;Always+up+for+a+chat+about+tech+%F0%9F%98%84" alt="Help"/>
+  <b>✨ Is there anything I can help you with? Let's connect and grow together! 🚀</b>
 </p>
 
 <!-- PROFILE BANNER -->
@@ -35,7 +38,7 @@
 
 <!-- TECH STACK -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=30&duration=2500&pause=800&color=FF9100&center=true&vCenter=true&width=500&height=55&lines=%F0%9F%9B%A0+What+I+Work+With" alt="What I Work With"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=30&duration=2500&pause=800&color=FF9100&center=true&vCenter=true&width=500&height=55&lines=%F0%9F%9B%A0+Tech+Stack" alt="Tech Stack"/>
 </p>
 
 <p align="center">
@@ -61,7 +64,7 @@
 
 <!-- ABOUT ME -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=30&duration=2500&pause=800&color=7C4DFF&center=true&vCenter=true&width=500&height=55&lines=%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB+A+Bit+About+Me" alt="A Bit About Me"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=30&duration=2500&pause=800&color=7C4DFF&center=true&vCenter=true&width=500&height=55&lines=%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB+About+Me" alt="About Me"/>
 </p>
 
 <h3 align="center">🌐 Networking</h3>
@@ -117,4 +120,9 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/Firaa93/Firaa93/main/img/github1-img.jpeg"
        alt="Footer Banner" width="100%">
+</p>
+
+<!-- FOOTER WAVE -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C4CC,35:7C4DFF,65:FF9100,100:FF4081&height=130&section=footer" width="100%" alt="Footer"/>
 </p>
