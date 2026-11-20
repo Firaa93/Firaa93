@@ -26,7 +26,7 @@
 
 ## 🛠️ Tech Stack
 
-**Programming Languages**
+### Programming Languages
 
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
@@ -44,13 +44,13 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 </p>
 
-**Mobile Development**
+### Mobile Development
 
 <p align="left">
   <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
 </p>
 
-**Database**
+### Database
 
 <p align="left">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
@@ -59,7 +59,7 @@
   <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white"/>
 </p>
 
-**Operating Systems & Web Servers**
+### Operating Systems & Web Servers
 
 <p align="left">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
@@ -74,7 +74,7 @@
   <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white"/>
 </p>
 
-**Development & Design Tools**
+### Development & Design Tools
 
 <p align="left">
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
@@ -141,7 +141,7 @@
   <img src="https://img.shields.io/badge/Bandwidth%20Management-FF4081?style=flat-square"/>
 </p>
 
-**Cisco Packet Tracer Projects**
+### Cisco Packet Tracer Projects
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/Firaa93/Firaa93/main/img/cisco-network-topology.png"
