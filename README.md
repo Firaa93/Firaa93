@@ -1,6 +1,9 @@
+
 <!-- CURVED WELCOME TEXT -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Firaa93/Firaa93/main/img/welcome-wave.svg" alt="Welcome to my GitHub profile" width="100%">
+  <img src="https://raw.githubusercontent.com/Firaa93/Firaa93/main/img/welcome-wave.svg"
+       alt="Welcome to my GitHub profile"
+       width="100%">
 </p>
 
 <br>
@@ -15,39 +18,83 @@
 <!-- PROFILE BANNER -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/Firaa93/Firaa93/main/img/github-img.jpeg"
-       alt="Banner" width="100%">
+       alt="Banner"
+       width="100%">
 </p>
 
+<br>
+
 <!-- TECH STACK -->
-<p align="center">
-  <img src="https://img.shields.io/badge/🛠️_Tech_Stack-FF9100?style=for-the-badge&labelColor=FF9100" alt="Tech Stack"/>
-</p>
+<h2 align="center">🛠️ TECH STACK</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"/>
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white"/>
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Sublime%20Text-FF9800?style=for-the-badge&logo=sublimetext&logoColor=white"/>
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 </p>
 
 <br>
 
 <!-- ABOUT ME -->
-<p align="center">
-  <img src="https://img.shields.io/badge/👩‍💻_About_Me-7C4DFF?style=for-the-badge&labelColor=7C4DFF" alt="About Me"/>
-</p>
+<h2 align="center">👩‍💻 ABOUT ME</h2>
 
 <h3 align="center">🌐 Networking</h3>
 
@@ -87,6 +134,8 @@
   <img src="https://img.shields.io/badge/MySQL-FF4081?style=flat-square"/>
 </p>
 
+<br>
+
 <h3 align="center">📱 Flutter / Mobile Development</h3>
 
 <p align="center">
@@ -101,5 +150,6 @@
 <!-- FOOTER BANNER -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/Firaa93/Firaa93/main/img/github1-img.jpeg"
-       alt="Footer Banner" width="100%">
+       alt="Footer Banner"
+       width="100%">
 </p>
